@@ -1,6 +1,7 @@
+// Mostre os itens invertidos 
 let itens = ['mouse' , 'teclado' , 'carregador' , 'monitor'];
 let quantidade = itens.length;
 
-for(let i = 0;i > quantidade; i--){
+for (let i = (quantidade - 1); i >= 0; i--) {
     console.log(itens[i])
 }
