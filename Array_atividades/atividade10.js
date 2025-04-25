@@ -1,8 +1,8 @@
 // Desafio Bônus – Ranking Interativo 🏆
 let jogos = ['Rocket League' , 'Minecraft' , 'Overwach 2'];
-let jogoFavorito = 'Rocket League'
+let jogoFavorito = 'Rocket League';
 
-let quant = jogos.length
+let quant = jogos.length;
 
 for(i = 0; i < quant; i++){
     if(jogoFavorito === jogos[i]){
