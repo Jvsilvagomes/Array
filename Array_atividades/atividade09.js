@@ -1,5 +1,5 @@
-// Use .length para contar 🎯
-]let frutas = ['uva' , 'banana' , 'maça' , 'manga' , 'melancia' , 'mamao'];
+// Use .length para contar 
+let frutas = ['uva' , 'banana' , 'maça' , 'manga' , 'melancia' , 'mamao'];
 let quant = frutas.length;
  
 console.log("aqui temos " + quant + " frutas no total sendo elas:");
